@@ -6,3 +6,5 @@ profiles_settings.xml
 media_load_test.iml/.idea/
 media_load_test.iml/
 /.idea/media_load_test.iml
+
+/mediaServer
